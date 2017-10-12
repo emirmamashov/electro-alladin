@@ -953,7 +953,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform13')
 <meta name="author" content="alladinstroi@gmail.com">
 <meta name="robots" content="INDEX, FOLLOW">
 <meta name="revisit-after" content="1 Day">
-<meta name="expires" content="Wed, 08 Jul 2020 17:00:20 GMT">
+<meta name="expires" content="Wed, 08 Jul 2020 17:18:02 GMT">
 <link href="favicon.png" rel="shortcut icon" type="image/x-icon">
 <style>
 div#container

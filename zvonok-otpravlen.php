@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <title>Услуги компании</title>
-<meta name="description" content="http://mediadjat.ru">
-<meta name="keywords" content="http://mediadjat.ru">
-<meta name="generator" content="Шаблоны сайтов - http://mediadjat.ru">
+<meta name="description" content="Профессиональные Электромонтажные работы в Кыргызстане">
+<meta name="keywords" content="Профессиональные Электромонтажные работы в Кыргызстане">
+<meta name="generator" content="Профессиональные Электромонтажные работы в Кыргызстане">
 <style>
 div#container
 {

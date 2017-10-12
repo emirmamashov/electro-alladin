@@ -3,9 +3,8 @@
 <head>
 <meta charset="utf-8">
 <title>Заявка на услуги </title>
-<meta name="description" content="http://mediadjat.ru">
-<meta name="keywords" content="http://mediadjat.ru">
-<meta name="generator" content="Шаблоны сайтов - http://mediadjat.ru">
+<meta name="description" content="Профессиональные Электромонтажные работы в Кыргызстане">
+<meta name="keywords" content="Профессиональные Электромонтажные работы в Кыргызстане">
 <meta http-equiv="refresh" content="5; URL=./index.php">
 <style>
 div#container
