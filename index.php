@@ -8,8 +8,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform1')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'PEM Заявка на расчет стоимости услуг';
-   $message = 'Заявка на расчет стоимости услуг';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости услуг';
+   $message = 'ЭЛЕКТРОМОНТАЖ 
+Заявка на расчет стоимости услуг';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
    $error = '';
@@ -80,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform2')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в квартире';
+   $subject = 'ЭЛЕКТРОМОНТАЖ  Заявка на монтаж электрики в квартире';
    $message = 'Заявка на монтаж электрики в квартире';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -152,7 +153,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform3')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в доме или коттедже';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на монтаж электрики в доме или коттедже';
    $message = 'Заявка на монтаж электрики в доме или коттедже';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -224,7 +225,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform4')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в офисе';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на монтаж электрики в офисе';
    $message = 'Заявка на монтаж электрики в офисе';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -296,7 +297,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform5')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в логических центрах';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на монтаж электрики в логических центрах';
    $message = 'Заявка на монтаж электрики в логических центрах';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -368,7 +369,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform6')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в бизнес центрах';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на монтаж электрики в бизнес центрах';
    $message = 'Заявка на монтаж электрики в бизнес центрах';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -440,7 +441,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform7')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на монтаж электрики в кофе и ресторанах';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на монтаж электрики в кофе и ресторанах';
    $message = 'Заявка на монтаж электрики в кофе и ресторанах';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -512,7 +513,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform8')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости электромонтажных работ';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости электромонтажных работ';
    $message = 'Заявка на расчет стоимости электромонтажных работ';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -584,7 +585,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform9')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости и монтаж';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости и монтаж';
    $message = 'Заявка на расчет стоимости и монтаж';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -656,7 +657,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform10')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости и монтаж';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости и монтаж';
    $message = 'Заявка на расчет стоимости и монтаж';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -728,7 +729,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform11')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости и монтаж';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости и монтаж';
    $message = 'Заявка на расчет стоимости и монтаж';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -800,7 +801,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform12')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости и монтаж';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости и монтаж';
    $message = 'Заявка на расчет стоимости и монтаж';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -872,7 +873,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform13')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'Заявка на расчет стоимости монтажа ';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заявка на расчет стоимости монтажа ';
    $message = 'Заявка на расчет стоимости монтажа ';
    $success_url = './zayavka-otpravlena.php';
    $error_url = '';
@@ -952,7 +953,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform13')
 <meta name="author" content="alladinstroi@gmail.com">
 <meta name="robots" content="INDEX, FOLLOW">
 <meta name="revisit-after" content="1 Day">
-<meta name="expires" content="Tue, 07 Jul 2020 18:30:36 GMT">
+<meta name="expires" content="Wed, 08 Jul 2020 17:00:20 GMT">
 <link href="favicon.png" rel="shortcut icon" type="image/x-icon">
 <style>
 div#container
@@ -3420,7 +3421,7 @@ $(document).ready(function(){
    </div>
    <div id="indexLayer8" style="position:absolute;text-align:left;left:0%;top:5108px;width:101%;height:479px;z-index:252;">
 <!-- Карта -->
-      <div id="indexHtml1" style="position:absolute;left:0px;top:1px;width:1207px;height:475px;z-index:27">
+      <div id="indexHtml1" style="position:absolute;left:0px;top:1px;width:1213px;height:471px;z-index:27">
 <script charset="utf-8" async="" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A86bc8e86187db9f03257fd5c9e76085703a39d085ed6239324e22ffc3b9f73dd&amp;width=100%25&amp;height=475&amp;lang=ru_RU&amp;scroll=true"></script>
 <style>
 #indexHtml1{Width:100% !important;}

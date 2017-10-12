@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform2')
 {
    $mailto = 'alladinstroi@gmail.com';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $subject = 'REM Заказ обратного звонка с сайта';
+   $subject = 'ЭЛЕКТРОМОНТАЖ Заказ обратного звонка с сайта';
    $message = 'Заказ обратного звонка с сайта';
    $success_url = './zvonok-otpravlen.php';
    $error_url = '';
