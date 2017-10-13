@@ -953,7 +953,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform13')
 <meta name="author" content="alladinstroi@gmail.com">
 <meta name="robots" content="INDEX, FOLLOW">
 <meta name="revisit-after" content="1 Day">
-<meta name="expires" content="Wed, 08 Jul 2020 17:18:02 GMT">
+<meta name="expires" content="Thu, 09 Jul 2020 09:04:54 GMT">
 <link href="favicon.png" rel="shortcut icon" type="image/x-icon">
 <style>
 div#container
@@ -2724,11 +2724,11 @@ body
    border: 0px #000000 solid;
    padding: 0;
    margin: 0;
-   text-align: left;
+   text-align: center;
 }
 #wb_indexText64 div
 {
-   text-align: left;
+   text-align: center;
 }
 #indexShape12
 {
@@ -3429,7 +3429,7 @@ $(document).ready(function(){
    </div>
    <div id="indexLayer2" style="position:absolute;text-align:center;left:0%;top:48px;width:100%;height:1329px;z-index:253;min-width:1200px;">
       <div id="indexLayer2_Container" style="width:1208px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="wb_indexText126" style="position:absolute;left:890px;top:10px;width:286px;height:35px;text-align:right;z-index:33;">
+         <div id="wb_indexText126" style="position:absolute;left:867px;top:15px;width:286px;height:35px;text-align:right;z-index:33;">
             <span style="color:#000000;font-family:Tahoma;font-size:29px;"><strong>0 312 58 63 88</strong></span></div>
          <div id="wb_indexImage20" style="position:absolute;left:49px;top:248px;width:69px;height:67px;z-index:34;">
             <a href="javascript:displaylightbox('./zvonok.php',{width:1000,height:600,scrolling:'no'})" target="_self"><img src="images/img0023.png" id="indexImage20" alt=""></a></div>
@@ -3481,67 +3481,65 @@ $(document).ready(function(){
             <div id="link2"><a href="#link1"><img src="images/img0013.png" id="indexShape1" alt="" style="width:66px;height:147px;"></a></div></div>
          <div id="wb_indexShape2" style="position:absolute;left:129px;top:264px;width:15px;height:46px;z-index:50;">
             <img src="images/img0002.png" id="indexShape2" alt="" style="width:15px;height:46px;"></div>
-         <div id="wb_indexText35" style="position:absolute;left:890px;top:48px;width:286px;height:35px;text-align:right;z-index:52;">
+         <div id="wb_indexText35" style="position:absolute;left:867px;top:53px;width:286px;height:35px;text-align:right;z-index:52;">
             <span style="color:#000000;font-family:Tahoma;font-size:29px;"><strong>0 557 17 38 38</strong></span></div>
-         <div id="wb_indexImage3" style="position:absolute;left:50px;top:10px;width:208px;height:55px;z-index:53;">
-            <img src="images/logo23.png" id="indexImage3" alt=""></div>
       </div>
    </div>
    <div id="indexLayer20" style="position:absolute;text-align:center;left:0%;top:1322px;width:100%;height:739px;z-index:254;min-width:1200px;">
       <div id="indexLayer20_Container" style="width:1211px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="wb_indexText5" style="position:absolute;left:212px;top:20px;width:707px;height:86px;text-align:center;z-index:83;">
+         <div id="wb_indexText5" style="position:absolute;left:212px;top:20px;width:707px;height:86px;text-align:center;z-index:82;">
             <span style="color:#363636;font-family:Sochi2014;font-size:32px;"><strong>ВЫПОЛНЯЕМ <br>ЭЛЕКТРОМОНТАЖНЫЕ РАБОТЫ ДЛЯ:</strong></span></div>
-         <div id="wb_indexForm2" style="position:absolute;left:20px;top:125px;width:360px;height:589px;z-index:84;">
+         <div id="wb_indexForm2" style="position:absolute;left:20px;top:125px;width:360px;height:589px;z-index:83;">
             <form name="Form2" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm2">
                <input type="hidden" name="formid" value="indexform2">
-               <div id="wb_indexText7" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:59;text-align:left;">
+               <div id="wb_indexText7" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:58;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <input type="tel" id="indexEditbox2" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:60;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <input type="submit" id="indexButton2" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:61;">
-               <input type="text" id="indexEditbox3" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:62;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-               <div id="wb_indexText8" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:63;text-align:left;">
+               <input type="tel" id="indexEditbox2" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:59;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <input type="submit" id="indexButton2" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:60;">
+               <input type="text" id="indexEditbox3" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:61;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+               <div id="wb_indexText8" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:62;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-               <div id="wb_indexImage2" style="position:absolute;left:12px;top:96px;width:334px;height:249px;z-index:64;">
+               <div id="wb_indexImage2" style="position:absolute;left:12px;top:96px;width:334px;height:249px;z-index:63;">
                   <img src="images/6.png" id="indexImage2" alt=""></div>
-               <div id="wb_indexShape3" style="position:absolute;left:11px;top:10px;width:336px;height:81px;z-index:65;">
+               <div id="wb_indexShape3" style="position:absolute;left:11px;top:10px;width:336px;height:81px;z-index:64;">
                   <img src="images/img0009.png" id="indexShape3" alt="" style="width:336px;height:81px;"></div>
-               <div id="wb_indexText6" style="position:absolute;left:29px;top:33px;width:302px;height:32px;text-align:center;z-index:66;">
+               <div id="wb_indexText6" style="position:absolute;left:29px;top:33px;width:302px;height:32px;text-align:center;z-index:65;">
                   <span style="color:#000000;font-family:Verdana;font-size:27px;">Квартир</span></div>
             </form>
          </div>
-         <div id="wb_indexForm3" style="position:absolute;left:419px;top:125px;width:360px;height:586px;z-index:85;">
+         <div id="wb_indexForm3" style="position:absolute;left:419px;top:125px;width:360px;height:586px;z-index:84;">
             <form name="Form3" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm3">
                <input type="hidden" name="formid" value="indexform3">
-               <div id="wb_indexText9" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:67;text-align:left;">
+               <div id="wb_indexText9" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:66;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <input type="tel" id="indexEditbox4" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:68;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <input type="submit" id="indexButton3" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:69;">
-               <input type="text" id="indexEditbox5" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:70;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-               <div id="wb_indexText18" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:71;text-align:left;">
+               <input type="tel" id="indexEditbox4" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:67;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <input type="submit" id="indexButton3" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:68;">
+               <input type="text" id="indexEditbox5" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:69;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+               <div id="wb_indexText18" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:70;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-               <div id="wb_indexImage5" style="position:absolute;left:12px;top:96px;width:332px;height:249px;z-index:72;">
+               <div id="wb_indexImage5" style="position:absolute;left:12px;top:96px;width:332px;height:249px;z-index:71;">
                   <img src="images/5.png" id="indexImage5" alt=""></div>
-               <div id="wb_indexShape4" style="position:absolute;left:12px;top:9px;width:332px;height:81px;z-index:73;">
+               <div id="wb_indexShape4" style="position:absolute;left:12px;top:9px;width:332px;height:81px;z-index:72;">
                   <img src="images/img0014.png" id="indexShape4" alt="" style="width:332px;height:81px;"></div>
-               <div id="wb_indexText20" style="position:absolute;left:26px;top:14px;width:302px;height:64px;text-align:center;z-index:74;">
+               <div id="wb_indexText20" style="position:absolute;left:26px;top:14px;width:302px;height:64px;text-align:center;z-index:73;">
                   <span style="color:#000000;font-family:Verdana;font-size:27px;">Домов и <br>коттеджей</span></div>
             </form>
          </div>
-         <div id="wb_indexForm4" style="position:absolute;left:816px;top:125px;width:360px;height:586px;z-index:86;">
+         <div id="wb_indexForm4" style="position:absolute;left:816px;top:125px;width:360px;height:586px;z-index:85;">
             <form name="Form4" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm4">
                <input type="hidden" name="formid" value="indexform4">
-               <div id="wb_indexText21" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:75;text-align:left;">
+               <div id="wb_indexText21" style="position:absolute;left:51px;top:433px;width:185px;height:16px;z-index:74;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <input type="tel" id="indexEditbox6" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:76;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <input type="submit" id="indexButton4" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:77;">
-               <input type="text" id="indexEditbox7" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:78;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-               <div id="wb_indexText22" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:79;text-align:left;">
+               <input type="tel" id="indexEditbox6" style="position:absolute;left:51px;top:453px;width:226px;height:32px;line-height:32px;z-index:75;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <input type="submit" id="indexButton4" name="" value="Расчитать стоимость услуг" style="position:absolute;left:51px;top:503px;width:255px;height:49px;z-index:76;">
+               <input type="text" id="indexEditbox7" style="position:absolute;left:51px;top:381px;width:226px;height:32px;line-height:32px;z-index:77;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+               <div id="wb_indexText22" style="position:absolute;left:51px;top:360px;width:236px;height:16px;z-index:78;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-               <div id="wb_indexImage6" style="position:absolute;left:12px;top:96px;width:332px;height:249px;z-index:80;">
+               <div id="wb_indexImage6" style="position:absolute;left:12px;top:96px;width:332px;height:249px;z-index:79;">
                   <img src="images/1.png" id="indexImage6" alt=""></div>
-               <div id="wb_indexShape6" style="position:absolute;left:11px;top:8px;width:333px;height:81px;z-index:81;">
+               <div id="wb_indexShape6" style="position:absolute;left:11px;top:8px;width:333px;height:81px;z-index:80;">
                   <img src="images/img0015.png" id="indexShape6" alt="" style="width:333px;height:81px;"></div>
-               <div id="wb_indexText23" style="position:absolute;left:29px;top:30px;width:302px;height:32px;text-align:center;z-index:82;">
+               <div id="wb_indexText23" style="position:absolute;left:29px;top:30px;width:302px;height:32px;text-align:center;z-index:81;">
                   <span style="color:#000000;font-family:Verdana;font-size:27px;">Офисов</span></div>
             </form>
          </div>
@@ -3549,112 +3547,112 @@ $(document).ready(function(){
    </div>
    <div id="indexLayer3" style="position:absolute;text-align:center;left:0%;top:5580px;width:100%;height:158px;z-index:255;min-width:1200px;">
       <div id="indexLayer3_Container" style="width:1211px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="wb_indexShape10" style="position:absolute;left:0px;top:4px;width:66px;height:147px;z-index:87;">
+         <div id="wb_indexShape10" style="position:absolute;left:0px;top:4px;width:66px;height:147px;z-index:86;">
             <div id="link6"><a href="#link1"><img src="images/img0005.png" id="indexShape10" alt="" style="width:66px;height:147px;"></a></div></div>
-         <div id="wb_indexText28" style="position:absolute;left:845px;top:7px;width:286px;height:35px;text-align:right;z-index:88;">
+         <div id="wb_indexText28" style="position:absolute;left:847px;top:9px;width:286px;height:35px;text-align:right;z-index:87;">
             <span style="color:#000000;font-family:Tahoma;font-size:29px;"><strong> 0 (557) 17 38 38</strong></span></div>
-         <div id="wb_indexCssMenu5" style="position:absolute;left:884px;top:93px;width:257px;height:50px;text-align:center;z-index:89;">
+         <div id="wb_indexCssMenu5" style="position:absolute;left:884px;top:93px;width:257px;height:50px;text-align:center;z-index:88;">
             <ul>
                <li class="firstmain"><a href="javascript:displaylightbox('./zvonok.php',{width:980,height:520,scrolling:'no'})" target="_self">&#1047;&#1072;&#1082;&#1072;&#1078;&#1080;&#1090;&#1077;&nbsp;&#1082;&#1086;&#1085;&#1089;&#1091;&#1083;&#1100;&#1090;&#1072;&#1094;&#1080;&#1102;</a>
                </li>
             </ul>
             <br>
          </div>
-         <div id="wb_indexShape11" style="position:absolute;left:366px;top:24px;width:424px;height:123px;filter:alpha(opacity=65);opacity:0.65;z-index:90;">
+         <div id="wb_indexShape11" style="position:absolute;left:366px;top:24px;width:424px;height:123px;filter:alpha(opacity=65);opacity:0.65;z-index:89;">
             <img src="images/img0022.png" id="indexShape11" alt="" style="width:424px;height:123px;"></div>
-         <div id="wb_indexText64" style="position:absolute;left:399px;top:44px;width:369px;height:72px;z-index:91;text-align:left;">
-            <span style="color:#FFFFFF;font-family:Tahoma;font-size:20px;"><strong>Электромонтажные работы по Бишкеку и Чуйской области<br></strong>Время работы: пн-вс 9:00 - 18:00</span></div>
-         <div id="wb_indexText58" style="position:absolute;left:844px;top:44px;width:286px;height:35px;text-align:right;z-index:92;">
+         <div id="wb_indexText64" style="position:absolute;left:399px;top:44px;width:369px;height:72px;text-align:center;z-index:90;">
+            <span style="color:#FFFFFF;font-family:Tahoma;font-size:20px;"><strong>Электромонтажные работы по Бишкеку и Чуйской области<br></strong>Адресс: Абдрахманова 166</span></div>
+         <div id="wb_indexText58" style="position:absolute;left:846px;top:46px;width:286px;height:35px;text-align:right;z-index:91;">
             <span style="color:#000000;font-family:Tahoma;font-size:29px;"><strong> 0 (312) 58 63 88</strong></span></div>
       </div>
    </div>
    <div id="indexLayer6" style="position:absolute;text-align:center;left:0%;top:2764px;width:100%;height:436px;z-index:256;min-width:1200px;">
       <div id="indexLayer6_Container" style="width:1211px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="wb_indexForm8" style="position:absolute;left:441px;top:137px;width:610px;height:222px;z-index:98;">
+         <div id="wb_indexForm8" style="position:absolute;left:441px;top:137px;width:610px;height:222px;z-index:97;">
             <form name="Form7" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm8">
                <input type="hidden" name="formid" value="indexform8">
-               <div id="wb_indexText32" style="position:absolute;left:316px;top:5px;width:185px;height:16px;z-index:93;text-align:left;">
+               <div id="wb_indexText32" style="position:absolute;left:316px;top:5px;width:185px;height:16px;z-index:92;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <input type="tel" id="indexEditbox14" style="position:absolute;left:322px;top:31px;width:215px;height:36px;line-height:36px;z-index:94;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <input type="submit" id="indexButton8" name="" value="Расчитать стоимость" style="position:absolute;left:317px;top:87px;width:255px;height:49px;z-index:95;">
-               <div id="wb_indexText50" style="position:absolute;left:25px;top:3px;width:236px;height:16px;z-index:96;text-align:left;">
+               <input type="tel" id="indexEditbox14" style="position:absolute;left:322px;top:31px;width:215px;height:36px;line-height:36px;z-index:93;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <input type="submit" id="indexButton8" name="" value="Расчитать стоимость" style="position:absolute;left:317px;top:87px;width:255px;height:49px;z-index:94;">
+               <div id="wb_indexText50" style="position:absolute;left:25px;top:3px;width:236px;height:16px;z-index:95;text-align:left;">
                   <span style="color:#000000;font-family:Tahoma;font-size:13px;">Напишите описание проблемы:*</span></div>
-               <textarea name="Текст" id="indexTextArea1" style="position:absolute;left:31px;top:30px;width:238px;height:159px;z-index:97;" rows="7" cols="31" placeholder="&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1090;&#1077;&#1082;&#1089;&#1090;"></textarea>
+               <textarea name="Текст" id="indexTextArea1" style="position:absolute;left:31px;top:30px;width:238px;height:159px;z-index:96;" rows="7" cols="31" placeholder="&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1090;&#1077;&#1082;&#1089;&#1090;"></textarea>
             </form>
          </div>
-         <div id="wb_indexText51" style="position:absolute;left:268px;top:28px;width:813px;height:64px;text-align:center;z-index:99;">
+         <div id="wb_indexText51" style="position:absolute;left:268px;top:28px;width:813px;height:64px;text-align:center;z-index:98;">
             <span style="color:#000000;font-family:Sochi2014;font-size:27px;"><strong>ЗАКАЖИТЕ БЕСПЛАТНЫЙ РАСЧЕТ СТОИМОСТИ <br>НА ЛЮБЫЕ ДРУГИЕ ЭЛЕКТРОМОНТАЖНЫЕ РАБОТЫ</strong></span></div>
       </div>
    </div>
    <div id="indexLayer7" style="position:absolute;text-align:center;left:0%;top:3193px;width:100%;height:900px;z-index:257;min-width:1200px;">
       <div id="indexLayer7_Container" style="width:1211px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="indexLayer1" style="position:absolute;text-align:left;left:14px;top:63px;width:1190px;height:670px;z-index:178;">
-            <div id="wb_indexForm9" style="position:absolute;left:10px;top:18px;width:576px;height:316px;z-index:162;">
+         <div id="indexLayer1" style="position:absolute;text-align:left;left:14px;top:63px;width:1190px;height:670px;z-index:177;">
+            <div id="wb_indexForm9" style="position:absolute;left:10px;top:18px;width:576px;height:316px;z-index:161;">
                <form name="Form8" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm9">
                   <input type="hidden" name="formid" value="indexform9">
-                  <input type="text" id="indexEditbox16" style="position:absolute;left:317px;top:109px;width:206px;height:35px;line-height:35px;z-index:148;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-                  <input type="tel" id="indexEditbox15" style="position:absolute;left:316px;top:187px;width:206px;height:35px;line-height:35px;z-index:149;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-                  <div id="wb_indexText24" style="position:absolute;left:312px;top:161px;width:185px;height:16px;z-index:150;text-align:left;">
+                  <input type="text" id="indexEditbox16" style="position:absolute;left:317px;top:109px;width:206px;height:35px;line-height:35px;z-index:147;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+                  <input type="tel" id="indexEditbox15" style="position:absolute;left:316px;top:187px;width:206px;height:35px;line-height:35px;z-index:148;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+                  <div id="wb_indexText24" style="position:absolute;left:312px;top:161px;width:185px;height:16px;z-index:149;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-                  <div id="wb_indexText25" style="position:absolute;left:312px;top:83px;width:236px;height:16px;z-index:151;text-align:left;">
+                  <div id="wb_indexText25" style="position:absolute;left:312px;top:83px;width:236px;height:16px;z-index:150;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-                  <input type="submit" id="indexButton9" name="" value="Расчитать стоимость услуг" style="position:absolute;left:313px;top:247px;width:255px;height:49px;z-index:152;">
-                  <div id="wb_indexText26" style="position:absolute;left:21px;top:20px;width:550px;height:25px;z-index:153;text-align:left;">
+                  <input type="submit" id="indexButton9" name="" value="Расчитать стоимость услуг" style="position:absolute;left:313px;top:247px;width:255px;height:49px;z-index:151;">
+                  <div id="wb_indexText26" style="position:absolute;left:21px;top:20px;width:550px;height:25px;z-index:152;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Verdana;font-size:21px;">Замена проводки в квартире, офисе, коттедже</span></div>
-                  <div id="wb_indexText27" style="position:absolute;left:10px;top:87px;width:136px;height:21px;z-index:154;text-align:left;">
+                  <div id="wb_indexText27" style="position:absolute;left:10px;top:87px;width:136px;height:21px;z-index:153;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:17px;"><strong>от 5000 сом</strong></span></div>
                </form>
             </div>
-            <div id="wb_indexForm10" style="position:absolute;left:608px;top:19px;width:576px;height:316px;z-index:163;">
+            <div id="wb_indexForm10" style="position:absolute;left:608px;top:19px;width:576px;height:316px;z-index:162;">
                <form name="Form9" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm10">
                   <input type="hidden" name="formid" value="indexform10">
-                  <input type="text" id="indexEditbox17" style="position:absolute;left:328px;top:108px;width:206px;height:35px;line-height:35px;z-index:155;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-                  <input type="tel" id="indexEditbox18" style="position:absolute;left:328px;top:186px;width:206px;height:35px;line-height:35px;z-index:156;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-                  <div id="wb_indexText29" style="position:absolute;left:323px;top:158px;width:185px;height:16px;z-index:157;text-align:left;">
+                  <input type="text" id="indexEditbox17" style="position:absolute;left:328px;top:108px;width:206px;height:35px;line-height:35px;z-index:154;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+                  <input type="tel" id="indexEditbox18" style="position:absolute;left:328px;top:186px;width:206px;height:35px;line-height:35px;z-index:155;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+                  <div id="wb_indexText29" style="position:absolute;left:323px;top:158px;width:185px;height:16px;z-index:156;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-                  <div id="wb_indexText30" style="position:absolute;left:323px;top:79px;width:236px;height:16px;z-index:158;text-align:left;">
+                  <div id="wb_indexText30" style="position:absolute;left:323px;top:79px;width:236px;height:16px;z-index:157;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-                  <input type="submit" id="indexButton10" name="" value="Расчитать стоимость услуг" style="position:absolute;left:320px;top:247px;width:255px;height:49px;z-index:159;">
-                  <div id="wb_indexText31" style="position:absolute;left:16px;top:8px;width:544px;height:50px;text-align:center;z-index:160;">
+                  <input type="submit" id="indexButton10" name="" value="Расчитать стоимость услуг" style="position:absolute;left:320px;top:247px;width:255px;height:49px;z-index:158;">
+                  <div id="wb_indexText31" style="position:absolute;left:16px;top:8px;width:544px;height:50px;text-align:center;z-index:159;">
                      <span style="color:#FFFFFF;font-family:Verdana;font-size:21px;">Перенос розеток и выключателей в спальне, <br>детской, коридоре, под ключ</span></div>
-                  <div id="wb_indexText36" style="position:absolute;left:22px;top:87px;width:136px;height:21px;z-index:161;text-align:left;">
+                  <div id="wb_indexText36" style="position:absolute;left:22px;top:87px;width:136px;height:21px;z-index:160;text-align:left;">
                      <span style="color:#FFFFFF;font-family:Tahoma;font-size:17px;"><strong>от 1500 сом</strong></span></div>
                </form>
             </div>
          </div>
-         <div id="wb_indexForm11" style="position:absolute;left:24px;top:419px;width:576px;height:316px;z-index:179;">
+         <div id="wb_indexForm11" style="position:absolute;left:24px;top:419px;width:576px;height:316px;z-index:178;">
             <form name="Form10" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm11">
                <input type="hidden" name="formid" value="indexform11">
-               <input type="text" id="indexEditbox19" style="position:absolute;left:317px;top:109px;width:206px;height:35px;line-height:35px;z-index:164;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-               <input type="tel" id="indexEditbox20" style="position:absolute;left:316px;top:187px;width:206px;height:35px;line-height:35px;z-index:165;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <div id="wb_indexText37" style="position:absolute;left:312px;top:161px;width:185px;height:16px;z-index:166;text-align:left;">
+               <input type="text" id="indexEditbox19" style="position:absolute;left:317px;top:109px;width:206px;height:35px;line-height:35px;z-index:163;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+               <input type="tel" id="indexEditbox20" style="position:absolute;left:316px;top:187px;width:206px;height:35px;line-height:35px;z-index:164;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <div id="wb_indexText37" style="position:absolute;left:312px;top:161px;width:185px;height:16px;z-index:165;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <div id="wb_indexText38" style="position:absolute;left:312px;top:83px;width:236px;height:16px;z-index:167;text-align:left;">
+               <div id="wb_indexText38" style="position:absolute;left:312px;top:83px;width:236px;height:16px;z-index:166;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-               <input type="submit" id="indexButton11" name="" value="Расчитать стоимость услуг" style="position:absolute;left:313px;top:247px;width:255px;height:49px;z-index:168;">
-               <div id="wb_indexText39" style="position:absolute;left:5px;top:8px;width:550px;height:50px;text-align:center;z-index:169;">
+               <input type="submit" id="indexButton11" name="" value="Расчитать стоимость услуг" style="position:absolute;left:313px;top:247px;width:255px;height:49px;z-index:167;">
+               <div id="wb_indexText39" style="position:absolute;left:5px;top:8px;width:550px;height:50px;text-align:center;z-index:168;">
                   <span style="color:#FFFFFF;font-family:Verdana;font-size:21px;">Полная прокладки электропроводки <br>в новой квартире, офисе , доме&nbsp; под ключ</span></div>
-               <div id="wb_indexText52" style="position:absolute;left:10px;top:87px;width:136px;height:21px;z-index:170;text-align:left;">
+               <div id="wb_indexText52" style="position:absolute;left:10px;top:87px;width:136px;height:21px;z-index:169;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:17px;"><strong>от 9500 сом</strong></span></div>
             </form>
          </div>
-         <div id="wb_indexForm12" style="position:absolute;left:622px;top:420px;width:576px;height:316px;z-index:180;">
+         <div id="wb_indexForm12" style="position:absolute;left:622px;top:420px;width:576px;height:316px;z-index:179;">
             <form name="Form11" method="post" action="<?php echo basename(__FILE__); ?>" enctype="multipart/form-data" accept-charset="UTF-8" id="indexForm12">
                <input type="hidden" name="formid" value="indexform12">
-               <input type="text" id="indexEditbox21" style="position:absolute;left:328px;top:108px;width:206px;height:35px;line-height:35px;z-index:171;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
-               <input type="tel" id="indexEditbox22" style="position:absolute;left:328px;top:186px;width:206px;height:35px;line-height:35px;z-index:172;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
-               <div id="wb_indexText53" style="position:absolute;left:323px;top:158px;width:185px;height:16px;z-index:173;text-align:left;">
+               <input type="text" id="indexEditbox21" style="position:absolute;left:328px;top:108px;width:206px;height:35px;line-height:35px;z-index:170;" name="Размер помещения" value="" placeholder="&#1053;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088; 60 &#1084;2">
+               <input type="tel" id="indexEditbox22" style="position:absolute;left:328px;top:186px;width:206px;height:35px;line-height:35px;z-index:171;" name="Телефон" value="" placeholder="0 (&#8226;&#8226;&#8226;) &#8226;&#8226; &#8226;&#8226; &#8226;&#8226;">
+               <div id="wb_indexText53" style="position:absolute;left:323px;top:158px;width:185px;height:16px;z-index:172;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1042;&#1072;&#1096; телефон*</span></div>
-               <div id="wb_indexText54" style="position:absolute;left:323px;top:79px;width:236px;height:16px;z-index:174;text-align:left;">
+               <div id="wb_indexText54" style="position:absolute;left:323px;top:79px;width:236px;height:16px;z-index:173;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:13px;">Введите размер помещения*</span></div>
-               <div id="wb_indexText55" style="position:absolute;left:7px;top:10px;width:562px;height:45px;text-align:center;z-index:175;">
+               <div id="wb_indexText55" style="position:absolute;left:7px;top:10px;width:562px;height:45px;text-align:center;z-index:174;">
                   <span style="color:#FFFFFF;font-family:Verdana;font-size:21px;">Перенос розеток под новую кухню с <br></span><span style="color:#FFFFFF;font-family:Verdana;font-size:17px;">дополнительными линиями для мощных электроприборов</span></div>
-               <div id="wb_indexText56" style="position:absolute;left:22px;top:87px;width:136px;height:21px;z-index:176;text-align:left;">
+               <div id="wb_indexText56" style="position:absolute;left:22px;top:87px;width:136px;height:21px;z-index:175;text-align:left;">
                   <span style="color:#FFFFFF;font-family:Tahoma;font-size:17px;"><strong>от 8500 сом</strong></span></div>
-               <input type="submit" id="indexButton12" name="" value="Расчитать стоимость услуг" style="position:absolute;left:319px;top:247px;width:255px;height:49px;z-index:177;">
+               <input type="submit" id="indexButton12" name="" value="Расчитать стоимость услуг" style="position:absolute;left:319px;top:247px;width:255px;height:49px;z-index:176;">
             </form>
          </div>
-         <div id="wb_indexShape15" style="position:absolute;left:0px;top:720px;width:62px;height:170px;z-index:181;">
+         <div id="wb_indexShape15" style="position:absolute;left:0px;top:720px;width:62px;height:170px;z-index:180;">
             <div id="link5"><img src="images/img0019.png" id="indexShape15" alt="" style="width:62px;height:170px;"></div></div>
       </div>
    </div>
@@ -3723,11 +3721,9 @@ $(document).ready(function(){
    </div>
    <div id="indexLayer5" style="position:fixed;text-align:center;left:0;top:0;right:0;height:48px;z-index:266;min-width:1200px;">
       <div id="indexLayer5_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
-         <div id="wb_indexCssMenu1" style="position:absolute;left:8px;top:9px;width:1185px;height:28px;text-align:center;z-index:231;">
+         <div id="wb_indexCssMenu1" style="position:absolute;left:194px;top:9px;width:877px;height:28px;text-align:center;z-index:230;">
             <ul>
-               <li class="firstmain"><a href="#link1" target="_self">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;</a>
-               </li>
-               <li><a href="#link2" target="_self">&#1055;&#1086;&#1095;&#1077;&#1084;&#1091;&nbsp;&#1052;&#1067;?</a>
+               <li class="firstmain"><a href="#link2" target="_self">&#1055;&#1086;&#1095;&#1077;&#1084;&#1091;&nbsp;&#1052;&#1067;?</a>
                </li>
                <li><a href="#link3" target="_self">&#1056;&#1086;&#1076;&nbsp;&#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080;</a>
                </li>
@@ -3740,6 +3736,8 @@ $(document).ready(function(){
             </ul>
             <br>
          </div>
+         <div id="wb_indexImage3" style="position:absolute;left:42px;top:3px;width:132px;height:35px;z-index:231;">
+            <img src="images/logo23.png" id="indexImage3" alt=""></div>
       </div>
    </div>
 </body>
